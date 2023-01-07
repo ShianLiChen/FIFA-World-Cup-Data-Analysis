@@ -1,0 +1,2 @@
+# FIFA-World-Cup-Data-Analysis
+Prediction of the 2022 World Cup based on data obtained from Kaggle (https://www.kaggle.com/datasets/brenda89/fifa-world-cup-2022).
